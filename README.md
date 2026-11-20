@@ -1,28 +1,52 @@
-<div align="center">
+# Annsu Choudhary
 
-<!-- Warm Editorial Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:181512,50:C85A32,100:2E3A2F&height=140&section=header&text=ANNSU%20CHOUDHARY&fontSize=34&fontColor=F4F0E8&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%C2%B7%20Web%20Systems%20%C2%B7%20Fast%20Execution&descAlignY=62&descColor=E5DEC9" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4F0E8,50:C85A32,100:3D4F3E&height=140&section=header&text=ANNSU%20CHOUDHARY&fontSize=34&fontColor=181512&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%C2%B7%20Web%20Systems%20%C2%B7%20Fast%20Execution&descAlignY=62&descColor=2C2825" width="100%" />
-</picture>
+**Structured code. Creative execution.**
 
-<br/>
+B.Tech in Computer Science and Engineering (AI) at Galgotias College of Engineering and Technology · 2023–2027 · CGPA 8.14 / 10
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-C85A32?style=for-the-badge&logoColor=F4F0E8)](https://annsuchoudhary.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-AnnsuChoudhary-181512?style=for-the-badge&logo=github&logoColor=F4F0E8)](https://github.com/AnnsuChoudhary)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-3D4F3E?style=for-the-badge&logo=linkedin&logoColor=F4F0E8)](https://www.linkedin.com/in/annsu-choudhary-1b8775297)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-700%2B%20DSA-B8860B?style=for-the-badge&logo=leetcode&logoColor=181512)](https://leetcode.com/u/annsuchoudhary/)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logoColor=F4F0E8)](https://www.codechef.com/users/annsu)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-PROFILE-2E3A2F?style=for-the-badge&logo=hackerrank&logoColor=F4F0E8)](https://www.hackerrank.com/profile/annsuchoudhary21)
+**Focus:** Applied AI · Web Systems · Developer Tools
 
-</div>
+I ramp up quickly across unfamiliar codebases and stacks, then turn what I learn into useful, maintainable software.
+
+[Portfolio](https://annsuchoudhary.netlify.app/) · [GitHub](https://github.com/AnnsuChoudhary) · [LinkedIn](https://www.linkedin.com/in/annsu-choudhary-1b8775297) · [LeetCode](https://leetcode.com/u/annsuchoudhary/) · [CodeChef](https://www.codechef.com/users/annsu) · [HackerRank](https://www.hackerrank.com/profile/annsuchoudhary21)
 
 ---
 
-### `01 // WHO'S BUILDING`
+## Featured builds
 
-```text
-> role:      CS (AI) Undergrad @ GCET (2023–2027) · CGPA 8.14 / 10
-> focus:     Applied AI, interactive web apps, and practical developer tools
-> style:     Structured code. Creative execution. Fast to pick up unfamiliar stacks.
-> proof:     700+ DSA problems · Open-source bug fixes & features · ECSOC Top 500
+### [Hybrid Fake News & Misinformation Detection](https://github.com/AnnsuChoudhary/Fake-News-Misinformation-Detection-Platform)
+
+**Feb–Apr 2026** · DistilBERT + Graph Convolutional Network (GCN) over PHEME conversation threads. **96.2% accuracy · 94.79% F1**
+
+### [StarLab Adventure](https://github.com/AnnsuChoudhary/StarLab-Adventure) · [Live demo](https://starlabadventure.netlify.app/)
+
+An interactive 3D/AR virtual science lab built with Three.js and Firebase (Auth & Firestore), featuring a Gemini-powered voice lab buddy.
+
+### [Tab Manager](https://github.com/AnnsuChoudhary/Tab-Manager-Extension)
+
+A Chrome Manifest V3 extension for domain groups, asynchronous search, and named session state.
+
+### [QLine](https://github.com/AnnsuChoudhary/QLine) · [TwinLife](https://github.com/AnnsuChoudhary/TwinLife)
+
+Smart appointment and queue management, alongside real-time health tracking with emergency alerts.
+
+## Open source & hackathons
+
+I contribute across community repositories by fixing bugs and issues, shipping features, and working through code review.
+
+<img src="Images/Open%20Source%20Program/ECSOC%20Badge.jpeg" width="96" alt="ECSOC 2026 contributor badge">
+
+- **ECSOC:** Top 500
+- **SheBuilds Hackathon:** Top 3 · Sponsor Track Winner
+- **World's Computer Hacker League (WCHL):** Regional Qualifier
+
+## Internships
+
+- **Python Development Intern** · Kinetrexa Software Private Limited · 20 Jul – 19 Aug 2026 · Cert ID: `KTS00920260275`
+- **Junior Software Developer Intern** · YuvaIntern · 06 Jul – 17 Aug 2026 · Cert ID: `YI/2026/73344/285446`
+
+## Tech stack
+
+| Languages | Web & Cloud | AI / 3D |
+| --- | --- | --- |
+| Python · C++ · Java · JavaScript | HTML5 · CSS3 · Firebase | PyTorch · DistilBERT · GCN · Three.js |

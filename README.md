@@ -4,21 +4,20 @@
 
 ### Structured code. Creative execution.
 
-**B.Tech in CSE (AI)** · Galgotias College of Engineering and Technology · 2023–2027<br>
-CGPA **8.14 / 10**
+**B.Tech in CSE (AI)** · Galgotias College of Engineering and Technology · 2023–2027
 
-`Applied AI` · `Web Systems` · `Developer Tools`
-
-I like turning a new codebase into familiar territory fast: learn the shape, find the useful slice, and ship.
+I build thoughtful digital experiences where **UI/UX and product craft lead**: clear flows, visual detail, purposeful micro-interactions, and journeys that feel effortless. From warm editorial storytelling to immersive 3D/AR, I care about how a product feels at every step—not just whether it works.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-C85A32?style=flat-square)](https://annsuchoudhary.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181512?style=flat-square&logo=github)](https://github.com/AnnsuChoudhary)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/annsu-choudhary-1b8775297)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=181512)](https://leetcode.com/u/annsuchoudhary/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef)](https://www.codechef.com/users/annsu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/annsuchoudhary21)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-6750A4?style=flat-square)](https://codolio.com/profile/Annsu)
 
-`context → explore → build → ship`
+```text
+$ notice → understand → design → build → delight
+```
 
 </div>
 
@@ -28,44 +27,53 @@ I like turning a new codebase into familiar territory fast: learn the shape, fin
 
 ### [Hybrid Fake News & Misinformation Detection](https://github.com/AnnsuChoudhary/Fake-News-Misinformation-Detection-Platform)
 
-**Feb–Apr 2026** · DistilBERT + Graph Convolutional Network (GCN) over PHEME conversation threads.<br>
-**96.2% accuracy · 94.79% F1**
+**A claim rarely travels alone.** Instead of judging text in isolation, this system pairs DistilBERT's language understanding with a Graph Convolutional Network (GCN) that reads conversation dynamics across PHEME threads—bringing the surrounding discussion into the signal. **96.2% accuracy · 94.79% F1**
 
-### [StarLab Adventure](https://github.com/AnnsuChoudhary/StarLab-Adventure) · [Launch the live demo](https://starlabadventure.netlify.app/)
+### [StarLab Adventure](https://github.com/AnnsuChoudhary/StarLab-Adventure) · [Live Demo](https://starlabadventure.netlify.app/)
 
-An interactive 3D/AR virtual science lab built with Three.js and Firebase (Auth & Firestore), with a Gemini-powered voice lab buddy.
+**Make science something you can step into.** An interactive Three.js 3D/AR lab turns abstract ideas into hands-on exploration, with Firebase Auth and Firestore behind the experience and a Gemini-powered voice lab buddy alongside learners.
 
 ### [Tab Manager](https://github.com/AnnsuChoudhary/Tab-Manager-Extension)
 
-A Chrome Manifest V3 extension for domain groups, asynchronous search, and named session state.
+**Give tab overload a calmer interface.** This Manifest V3 extension brings order to chaotic browsing with domain-based grouping, fast asynchronous search, and named session state—so useful context is easy to find and easy to return to.
 
 ### [QLine](https://github.com/AnnsuChoudhary/QLine) · [TwinLife](https://github.com/AnnsuChoudhary/TwinLife)
 
-Smart appointment and queue management meets real-time health tracking with emergency alerts.
+**Less waiting. More clarity when it counts.** QLine makes queue and appointment journeys frictionless with digital tokens, while TwinLife keeps live vitals legible and emergency alerts close at hand—designed for stressful, time-sensitive moments.
 
-## ✦ Open source & hackathons
+### The details are part of the product
 
-I jump into community repositories to fix bugs and issues, ship features, and improve projects through code review.
+The same product-first thinking shapes my portfolio: warm editorial craft, considered visual hierarchy, and small interactions that make exploring feel natural. Across builds, I look for clear next steps, useful feedback, and zero-friction journeys.
 
-- **ECSOC** · Top 500
+---
+
+## ✦ Open source
+
+I jump into community repositories, get oriented in the existing code, and contribute where it makes a real difference: fixing bugs and reported issues, shipping useful features, and reviewing code with care.
+
+**ECSOC · Top 500**
+
+<div align="center">
+<a href="Images/Open%20Source%20Program/ECSOC%20Badge.jpeg"><img src="Images/Open%20Source%20Program/ECSOC%20Badge.jpeg" width="160" alt="ECSOC Top 500 badge"></a>
+</div>
+
+---
+
+## ✦ Achievements & credentials
+
 - **SheBuilds Hackathon** · Top 3 · Sponsor Track Winner
 - **World's Computer Hacker League (WCHL)** · Regional Qualifier
 
 <div align="center">
-<a href="Images/Open%20Source%20Program/ECSOC%20Badge.jpeg"><img src="Images/Open%20Source%20Program/ECSOC%20Badge.jpeg" width="104" alt="ECSOC 2026 contributor badge"></a>
-&nbsp;&nbsp;
-<a href="Images/Achievements/SheBuilds%20Top%203.png"><img src="Images/Achievements/SheBuilds%20Top%203.png" width="196" alt="SheBuilds Hackathon Sponsor Track certificate"></a>
+<img src="Images/Achievements/SheBuilds%20Top%203.png" width="240" alt="SheBuilds Hackathon Sponsor Track award">
 </div>
 
-## ✦ Internships
+---
 
-- **Python Development Intern** · Kinetrexa Software Private Limited · 20 Jul – 19 Aug 2026<br>
-  Cert ID: `KTS00920260275`
-- **Junior Software Developer Intern** · YuvaIntern · 06 Jul – 17 Aug 2026<br>
-  Cert ID: `YI/2026/73344/285446`
+## ✦ The toolkit
 
-## ✦ Tech stack
-
-| Languages | Web & Cloud | AI / 3D |
-| --- | --- | --- |
-| Python · C++ · Java · JavaScript | HTML5 · CSS3 · Firebase | PyTorch · DistilBERT · GCN · Three.js |
+```text
+LANGUAGES       Python · C++ · Java · JavaScript
+WEB, UI & CLOUD HTML5 · CSS3 · Firebase
+AI, 3D & CRAFT  PyTorch · DistilBERT · GCN · Three.js
+```

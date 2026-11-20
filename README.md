@@ -25,25 +25,44 @@ $ notice → understand → design → build → delight
 
 ## ✦ Featured builds
 
-### [Hybrid Fake News & Misinformation Detection](https://github.com/AnnsuChoudhary/Fake-News-Misinformation-Detection-Platform)
+Each build starts with a real point of friction, then pairs deliberate interface choices with the engineering behind them.
 
-**A claim rarely travels alone.** Instead of judging text in isolation, this system pairs DistilBERT's language understanding with a Graph Convolutional Network (GCN) that reads conversation dynamics across PHEME threads—bringing the surrounding discussion into the signal. **96.2% accuracy · 94.79% F1**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AnnsuChoudhary/Fake-News-Misinformation-Detection-Platform">Hybrid Fake News &amp; Misinformation Detection</a></h3>
+<p><strong>THE SIGNAL IS IN THE SPREAD</strong><br>Misinformation moves through conversations; a claim read on its own misses that context.</p>
+<p><strong>Engineered</strong><br>Combined DistilBERT content embeddings with a Graph Convolutional Network (GCN) over PHEME conversation threads for propagation-aware modeling.</p>
+<p><strong>Outcome</strong><br>96.2% accuracy · 94.79% F1</p>
+<p><a href="https://github.com/AnnsuChoudhary/Fake-News-Misinformation-Detection-Platform">Explore the system →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AnnsuChoudhary/StarLab-Adventure">StarLab Adventure</a></h3>
+<p><strong>LEARNING, READY TO EXPLORE</strong><br>Turn abstract science into an interactive 3D/AR space where learners can investigate hands-on, not just read along.</p>
+<p><strong>Engineered</strong><br>Built the Three.js simulation with Firebase Auth and Firestore for state and persistence, plus a dedicated Gemini-powered voice lab buddy.</p>
+<p><strong>Experience</strong><br>An immersive science lab with an interactive voice guide.</p>
+<p><a href="https://starlabadventure.netlify.app/">Live demo →</a> · <a href="https://github.com/AnnsuChoudhary/StarLab-Adventure">Repository →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AnnsuChoudhary/Tab-Manager-Extension">Tab Manager</a></h3>
+<p><strong>CALM FOR THE TAB-OVERLOADED</strong><br>Heavy browsing workflows need more than another list: they need fast discovery and a reliable way back to useful context.</p>
+<p><strong>Engineered</strong><br>A Manifest V3 extension with domain grouping, fast async search, named session snapshots, and clean state handling.</p>
+<p><strong>Experience</strong><br>Find, organize, and restore browsing sessions without friction.</p>
+<p><a href="https://github.com/AnnsuChoudhary/Tab-Manager-Extension">Explore the extension →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AnnsuChoudhary/QLine">QLine</a> &amp; <a href="https://github.com/AnnsuChoudhary/TwinLife">TwinLife</a></h3>
+<p><strong>CLARITY WHEN EVERY MOMENT COUNTS</strong><br>Urgent situations call for direct flows and clear information—not extra steps or visual noise.</p>
+<p><strong>Engineered</strong><br>QLine makes queue and appointment journeys frictionless with digital tokens. TwinLife pairs clear live-vitals monitoring with emergency alert readiness.</p>
+<p><strong>Experience</strong><br>Less waiting, legible health information, and support close at hand.</p>
+<p><a href="https://github.com/AnnsuChoudhary/QLine">QLine repo →</a> · <a href="https://github.com/AnnsuChoudhary/TwinLife">TwinLife repo →</a></p>
+</td>
+</tr>
+</table>
 
-### [StarLab Adventure](https://github.com/AnnsuChoudhary/StarLab-Adventure) · [Live Demo](https://starlabadventure.netlify.app/)
-
-**Make science something you can step into.** An interactive Three.js 3D/AR lab turns abstract ideas into hands-on exploration, with Firebase Auth and Firestore behind the experience and a Gemini-powered voice lab buddy alongside learners.
-
-### [Tab Manager](https://github.com/AnnsuChoudhary/Tab-Manager-Extension)
-
-**Give tab overload a calmer interface.** This Manifest V3 extension brings order to chaotic browsing with domain-based grouping, fast asynchronous search, and named session state—so useful context is easy to find and easy to return to.
-
-### [QLine](https://github.com/AnnsuChoudhary/QLine) · [TwinLife](https://github.com/AnnsuChoudhary/TwinLife)
-
-**Less waiting. More clarity when it counts.** QLine makes queue and appointment journeys frictionless with digital tokens, while TwinLife keeps live vitals legible and emergency alerts close at hand—designed for stressful, time-sensitive moments.
-
-### The details are part of the product
-
-The same product-first thinking shapes my portfolio: warm editorial craft, considered visual hierarchy, and small interactions that make exploring feel natural. Across builds, I look for clear next steps, useful feedback, and zero-friction journeys.
+<p align="center"><strong>Want the deeper walkthroughs?</strong> Explore the visual craft and project stories on my <a href="https://annsuchoudhary.netlify.app/">portfolio →</a></p>
 
 ---
 

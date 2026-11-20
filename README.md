@@ -1,31 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E05A47&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Annsu+Choudhary!;CSE+(AI)+Undergrad+%7C+Full-Stack+%26+ML+Builder;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
+
+<!-- Warm Editorial Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:181512,50:C85A32,100:2E3A2F&height=140&section=header&text=ANNSU%20CHOUDHARY&fontSize=34&fontColor=F4F0E8&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%C2%B7%20Web%20Systems%20%C2%B7%20Fast%20Execution&descAlignY=62&descColor=E5DEC9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4F0E8,50:C85A32,100:3D4F3E&height=140&section=header&text=ANNSU%20CHOUDHARY&fontSize=34&fontColor=181512&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%C2%B7%20Web%20Systems%20%C2%B7%20Fast%20Execution&descAlignY=62&descColor=2C2825" width="100%" />
+</picture>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-C85A32?style=for-the-badge&logoColor=F4F0E8)](https://annsuchoudhary.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-AnnsuChoudhary-181512?style=for-the-badge&logo=github&logoColor=F4F0E8)](https://github.com/AnnsuChoudhary)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-3D4F3E?style=for-the-badge&logo=linkedin&logoColor=F4F0E8)](https://www.linkedin.com/in/annsu-choudhary-1b8775297)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-700%2B%20DSA-B8860B?style=for-the-badge&logo=leetcode&logoColor=181512)](https://leetcode.com/u/annsuchoudhary/)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logoColor=F4F0E8)](https://www.codechef.com/users/annsu)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-PROFILE-2E3A2F?style=for-the-badge&logo=hackerrank&logoColor=F4F0E8)](https://www.hackerrank.com/profile/annsuchoudhary21)
+
 </div>
 
-### About Me
-- 🔭 Building AI/ML systems and full-stack web applications
-- 🌱 Exploring Graph Convolutional Networks, NLP, and scalable backends
-- 🏆 **Top 3 (Sponsor Track)** at SheBuilds Hackathon • **Regional Qualifier** at WCHL
-- 💻 Solved **500+ algorithmic problems** across LeetCode and CodeChef
-
 ---
 
-### Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,flask,fastapi,firebase,pytorch,git,github" alt="Tech Stack" />
-</p>
+### `01 // WHO'S BUILDING`
 
----
-
-### Featured Projects
-- **[StarLab Adventure](https://github.com/AnnsuChoudhary/StarLab-Adventure)** — Gamified 3D virtual science lab powered by Three.js, Firebase, and voice-guided AI tutoring.
-- **[Fake News & Misinformation Detection](https://github.com/AnnsuChoudhary/Fake-News-Misinformation-Detection-Platform)** — Hybrid propagation and content analysis model combining DistilBERT and Graph Convolutional Networks.
-- **[Tab Manager Extension](https://github.com/AnnsuChoudhary/Tab-Manager-Extension)** — Chrome Manifest V3 extension for domain grouping and session restoration.
-
----
-
-### GitHub Analytics
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnnsuChoudhary&show_icons=true&bg_color=1E131A&title_color=F2845C&icon_color=E05A47&text_color=F5E6E8&border_color=5C333B" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnsuChoudhary&background=1E131A&border=5C333B&ring=D96B43&fire=E05A47&currStreakNum=F2845C&sideNums=E5B8A8&currStreakLabel=F5E6E8&sideLabels=D8C3C6&dates=B89B9F" alt="GitHub Streak" />
-</div>
+```text
+> role:      CS (AI) Undergrad @ GCET (2023–2027) · CGPA 8.14 / 10
+> focus:     Applied AI, interactive web apps, and practical developer tools
+> style:     Structured code. Creative execution. Fast to pick up unfamiliar stacks.
+> proof:     700+ DSA problems · Open-source bug fixes & features · ECSOC Top 500
